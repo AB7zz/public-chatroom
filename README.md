@@ -10,7 +10,7 @@ This is a chat room where you and your friends can join a room and talk about an
 
 # Drawbacks
 
-1. Chat history dissapears after reloading the page
+1. Chat history disapears after reloading the page
 
 
 # Happy Coding!
