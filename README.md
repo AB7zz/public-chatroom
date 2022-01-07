@@ -1,4 +1,6 @@
 https://youtu.be/yqkfPZwVVzg
+
+Tutorial I watched: https://www.youtube.com/watch?v=jD7FnbI76Hg
 # What is this web app?
 
 This is a chat room where you and your friends can join a room and talk about anything you want. 
